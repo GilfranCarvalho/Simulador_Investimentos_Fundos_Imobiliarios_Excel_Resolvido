@@ -1,5 +1,7 @@
 O projeto foi organizado com foco em **documentação técnica clara, rastreabilidade dos cálculos e facilidade de compartilhamento**, utilizando o GitHub como canal para armazenar a planilha, explicar sua lógica e permitir futuras evoluções.
 
+Link: https://1drv.ms/x/c/1b59a2b2e67d44ba/IQDxbgPjQEyGTI1kTKuJgKYGAY2PEOobu16ZCTerL1NqPnw?e=odW3IE
+
 ## Objetivo do projeto
 
 A ferramenta foi criada para responder, de forma simples e parametrizável, perguntas como:
